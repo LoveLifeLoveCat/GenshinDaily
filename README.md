@@ -13,3 +13,13 @@
 现在可以说使用 `GenshinDaily` 解放双手，打开电脑即可感受力量。
 
 
+### 环境安装
+
+#### 模拟器安装
+
+雷神模拟器(其他模拟器目前没有支持)，选择雷电9版本安装。
+
+#### 游戏安装
+
+打开 https://ys.mihoyo.com/ 选择安卓版本apk下载 https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/android_default 安装登录
+
